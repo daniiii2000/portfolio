@@ -1,0 +1,21 @@
+.seccion-oscura {
+    background-color: #111213;
+    color: white;
+}
+.sobre-mi {
+    height: 500px;
+    padding: 10px;
+    .contenedor {
+        max-width: 600px;
+        text-align: center;
+        
+    }
+    .seccion-titulo {
+        font-size: 2rem;
+        padding: 15px;
+        font-family: 'Rubik Dirt', cursive;
+    }
+    .seccion-texto {
+        font-size: 1.2rem;
+    }
+}
